@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acorn City Kids — Summer 2026 Newsletter</title>
+    <style>
+        body { font-family: 'Helvetica Neue', Arial, sans-serif; line-height: 1.6; color: #333333; background-color: #f4f7f6; margin: 0; padding: 20px; }
+        .container { max-width: 600px; margin: 0 auto; background: #ffffff; padding: 30px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        .header { text-align: center; border-bottom: 3px solid #4CAF50; padding-bottom: 20px; margin-bottom: 25px; }
+        .header h1 { color: #2E7D32; margin: 0; font-size: 28px; }
+        .subtitle { color: #2E7D32; font-size: 18px; font-weight: bold; margin-top: 5px; text-transform: uppercase; letter-spacing: 1px; }
+        .intro { color: #555555; font-size: 15px; text-align: center; margin-bottom: 20px; }
+        .section-title { color: #2E7D32; font-size: 20px; border-bottom: 1px solid #e0e0e0; padding-bottom: 5px; margin-top: 25px; display: flex; align-items: center; font-weight: bold; }
+        .section-title span { margin-right: 10px; }
+        ul { padding-left: 20px; margin: 10px 0; }
+        li { margin-bottom: 12px; font-size: 15px; }
+        .event-date { color: #c62828; font-weight: bold; font-size: 13px; text-transform: uppercase; display: block; margin-top: 2px; }
+        .footer { background-color: #E8F5E9; padding: 20px; border-radius: 6px; margin-top: 30px; text-align: center; font-size: 14px; }
+        .footer h3 { margin-top: 0; color: #2E7D32; }
+        .footer a { color: #1B5E20; font-weight: bold; text-decoration: none; }
+        .footer a:hover { text-decoration: underline; }
+        .contact-info { margin-top: 10px; font-size: 13px; color: #555555; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    
+    <div class="header">
+        <h1>🌳 Acorn City Kids</h1>
+        <div class="subtitle">☀️ Summer 2026 Ultimate Guide</div>
+        <p class="intro">Connecting Wake County families to free, affordable, and fully inclusive activities focused on kindness, nature, and community.</p>
+    </div>
+
+    <div class="section-title"><span>✨</span> Featured June Events</div>
+    <ul>
+        <li><strong>Cars and Carnivores Street Festival:</strong> A vibrant, free community street fair featuring a massive display of cars, local food, and family-friendly activities. 
+            <span class="event-date">📅 Saturday, June 6, 2026 — Downtown Wake Forest</span>
+        </li>
+        <li><strong>Blueberry Bash:</strong> A fun, produce-themed farmers market morning packed with kids' activities, interactive trivia, and family entertainment.
+            <span class="event-date">📅 Saturday, June 20, 2026 — Western Wake Farmers' Market</span>
+        </li>
+    </ul>
+
+    <div class="section-title"><span>🎨</span> Free & Low-Cost Workshops</div>
+    <ul>
+        <li><strong>Native Voices, Cultures, and Art Making:</strong> A wonderful, completely free family day featuring hands-on art projects, traditional games, storytelling, and live cultural performances.
+            <span class="event-date">📅 Saturday, June 6, 2026 — Gregg Museum of Art & Design</span>
+        </li>
+        <li><strong>Wake County Library Summer Reading Challenge:</strong> Pop into any Wake County Public Library location all summer long to pick up free reading logs, track books, and claim fun prize incentives!
+            <span class="event-date">📅 Running All Summer — All Wake County Library Branches</span>
+        </li>
+    </ul>
+
+    <div class="section-title"><span>🌳</span> Nature & Animals</div>
+    <ul>
+        <li><strong>Dueling Dinosaurs Sensory-Friendly Morning:</strong> A quieter, calmer, limited-crowd opportunity to explore the incredible dinosaur exhibits with reduced noise stimuli. Fidget toys and noise-reducing headphones are available.
+            <span class="event-date">📅 Sunday, June 14, 2026 — NC Museum of Natural Sciences</span>
+        </li>
+        <li><strong>Wetland & Greenway Explorers:</strong> Pack a picnic and explore the completely free paved paths, wildlife viewing platforms, and shaded trails at Lake Johnson Park or the Neuse River Trail.
+            <span class="event-date">📅 Open Daily — Free Public Access</span>
+        </li>
+    </ul>
+
+    <div class="section-title"><span>♿</span> Special Needs & Inclusive Programs</div>
+    <ul>
+        <li><strong>Marbles Kids Museum Sensory Friendly Playtime:</strong> A specialized, highly supportive environment designed exclusively for children with disabilities and their families to explore the museum at a relaxed pace with lower lighting and minimal noise.
+            <span class="event-date">📅 Wednesday, June 17, 2026 (Repeats Monthly through August) — Downtown Raleigh</span>
+        </li>
+        <li><strong>Sensory-Friendly Play at Urban Air:</strong> An exclusive morning session customized for children on the autism spectrum and with sensory needs. Enjoy the active parks safely with no loud music or intense flashes.
+            <span class="event-date">📅 Saturday, June 20, 2026 — Urban Air Raleigh</span>
+        </li>
+        <li><strong>Sensory Storytime:</strong> An interactive, welcoming literacy program explicitly structured for autistic children and those with neurodivergent sensory needs.
+            <span class="event-date">📅 Saturday, June 27, 2026 — North Regional Library</span>
+        </li>
+    </ul>
+
+    <div class="footer">
+        <h3>About Acorn City Kids</h3>
+        <p>We are a dedicated local resource bringing Raleigh and Wake County families together through fully accessible, budget-friendly events.</p>
+        <div class="contact-info">
+            🌐 <strong>Website:</strong> <a href="https://acorncitykids.com" target="_blank">acorncitykids.com</a><br>
+            ✉️ <strong>Email:</strong> <a href="mailto:acorncitykids@gmail.com">acorncitykids@gmail.com</a>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
